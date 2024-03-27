@@ -1,0 +1,43 @@
+﻿  main.c
+  user.c
+E:\训练营\中期考核\中期考核\中期考核\user.c(52,17): warning C4033: “UserInitList”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(80,17): warning C4033: “UserInitList”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(82,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(83,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(30,14): warning C4101: “sel”: 未引用的局部变量
+E:\训练营\中期考核\中期考核\中期考核\user.c(246,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(310,13): warning C4033: “UserInsertList”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(313,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(314,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(346,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(347,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(366,9): warning C4013: “rintf”未定义；假设外部返回 int
+E:\训练营\中期考核\中期考核\中期考核\user.c(379,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(380,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(447,13): warning C4033: “UserrevisePassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(478,13): warning C4033: “UserrevisePassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(481,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(482,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(549,21): warning C4033: “UserrevisePassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(552,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(553,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(582,21): warning C4033: “UserrevisePassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(585,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(586,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(642,9): warning C4033: “UserrevisePassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(686,17): warning C4033: “UserreviseSecertPassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(801,33): warning C4033: “UserreviseSecertPassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(804,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(805,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(834,33): warning C4033: “UserreviseSecertPassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(837,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(838,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\训练营\中期考核\中期考核\中期考核\user.c(905,13): warning C4033: “UserreviseSecertPassword”必须返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(669,14): warning C4101: “password”: 未引用的局部变量
+  正在生成代码...
+E:\训练营\中期考核\中期考核\中期考核\user.c(26): warning C4715: “admi_UserDestrong_List”: 不是所有的控件路径都返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(422): warning C4715: “UserInsertList”: 不是所有的控件路径都返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(220): warning C4715: “UserInitList”: 不是所有的控件路径都返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(658): warning C4715: “UserrevisePassword”: 不是所有的控件路径都返回值
+E:\训练营\中期考核\中期考核\中期考核\user.c(923): warning C4715: “UserreviseSecertPassword”: 不是所有的控件路径都返回值
+  中期考核.vcxproj -> E:\训练营\中期考核\中期考核\x64\Debug\中期考核.exe
